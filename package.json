@@ -1,0 +1,22 @@
+{
+  "name": "tea",
+  "version": "1.0.0",
+  "description": "tea.xyz",
+  "main": "index.js",
+  "scripts": {
+    "test": "tea"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18797863445/teaProtol.git"
+  },
+  "keywords": [
+    "wbl990912.0"
+  ],
+  "author": "blongwang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/18797863445/teaProtol/issues"
+  },
+  "homepage": "https://github.com/18797863445/teaProtol#readme"
+}
